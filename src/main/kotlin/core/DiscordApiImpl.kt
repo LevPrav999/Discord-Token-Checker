@@ -30,7 +30,7 @@ class DiscordApiImpl : DiscordApi {
         else
             result.put("phone", "Not entered")
 
-        result.put("username", json.get("username").asString+json.get("discriminator").asString)
+        result.put("username", json.get("username").asString+"#"+json.get("discriminator").asString)
         result.put("email", json.get("email").asString)
         result.put("mfa_info", json.get("mfa_enabled").asString)
         result.put("verified", json.get("verified").asString)
