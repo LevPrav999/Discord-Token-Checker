@@ -15,3 +15,10 @@ Version: 1.0.3
 2. Select the operating mode (one token or tokens from a file)
 3. Wait...
 4. Go to the created folder and see the result
+
+---
+
+##ScreenShots
+
+<img src=".images/1.png"/>
+<img src=".images/2.png"/>
