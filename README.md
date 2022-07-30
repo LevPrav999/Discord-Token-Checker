@@ -1,5 +1,5 @@
-# Discord-Token-Checker
-# Quick checker of discord tokens
+# Discord Token Checker
+## Quick checker of discord tokens
 
 Speed: 100 tokens in 40 seconds
 
@@ -9,7 +9,7 @@ Version: 1.0.3
 
 ---
 
-###How to use?
+##How to use?
 
 1. Run the program or compile it yourself
 2. Select the operating mode (one token or tokens from a file)
