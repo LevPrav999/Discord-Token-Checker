@@ -20,5 +20,5 @@ Version: 1.0.3
 
 ##ScreenShots
 
-<img src=".images/1.png"/>
-<img src=".images/2.png"/>
+<img src="images/1.png"/>
+<img src="images/2.png"/>
